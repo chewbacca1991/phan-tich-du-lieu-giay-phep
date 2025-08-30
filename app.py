@@ -13,4 +13,4 @@ def home():
 # Run the application in debug mode if this script is executed directly
 if __name__ == '__main__':
     # Start the Flask application
-    app.run(debug=True)
+    app.run(debug=True)  # Set debug=True for development
