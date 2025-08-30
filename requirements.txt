@@ -1,4 +1,4 @@
-pandas
+# Required Python packages for data visualization and report generation
 matplotlib
 seaborn
 reportlab
